@@ -99,3 +99,9 @@
 ![random galaxy](neat/39.png)
 
 ![random galaxy](neat/45.png)
+
+## But they don't look much like galaxies?
+
+They look a bit more legit as thumbnails :^)
+
+![screenshot](img/screenshot.png)

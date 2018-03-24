@@ -1,5 +1,7 @@
 # Random galaxy generator
 
+![screenshot](img/thumbnails.png)
+
 ![random galaxy](neat/43.png)
 
 ![random galaxy](neat/5.png)
@@ -99,9 +101,3 @@
 ![random galaxy](neat/39.png)
 
 ![random galaxy](neat/45.png)
-
-## But they don't look much like galaxies?
-
-They look a bit more legit as thumbnails :^)
-
-![screenshot](img/thumbnails.png)

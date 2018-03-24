@@ -104,4 +104,4 @@
 
 They look a bit more legit as thumbnails :^)
 
-![screenshot](img/screenshot.png)
+![screenshot](img/thumbnails.png)
